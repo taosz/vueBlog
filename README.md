@@ -97,4 +97,4 @@ npm run dev
 ![edit](./screenshot/edit.png)
 
 
-瓦达西
+瓦达西！！

@@ -95,3 +95,7 @@ npm run dev
 编辑页
 
 ![edit](./screenshot/edit.png)
+git init
+git remote add origin git@github.com:taosz/vueBlog.git
+git fetch
+git checkout master
